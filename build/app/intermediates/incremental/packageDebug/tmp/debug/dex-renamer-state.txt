@@ -1,0 +1,4 @@
+#Sat Mar 25 17:38:52 CST 2023
+base.0=/Users/faith_yee/Desktop/my_flutter_wanandroid/my_flutter_wanandroid/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
